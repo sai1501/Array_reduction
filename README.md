@@ -50,8 +50,8 @@ Make the following moves to reduce the num=[1,2,3,4]
 
 CODE-
 
-# The function accepts an integer array
-# The function returns an integer
+#The function accepts an integer array
+#The function returns an integer
 
 def reductionCost(num):
     
